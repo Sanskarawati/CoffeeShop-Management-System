@@ -1,0 +1,11 @@
+#animated-h1 {
+    color: #333; /* Initial color */
+    font-size: 2em;  /* Initial font size */
+    transition: color 0.5s ease-in-out, font-size 0.5s ease-in-out; /* Transition properties */
+  }
+  
+  #animated-h1:hover {
+    color: #ff9900; /* Hover color */
+    font-size: 2.2em;  /* Hover font size */
+  }
+  
